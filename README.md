@@ -7,3 +7,5 @@ lessons in C 99 instead of C++.
 (!) write tests for RLE compression.
 
 This project was abandoned in circa 01.03.2018.
+
+![Alt text](https://github.com/edxnull/ctiny/blob/main/image.png?raw=true)
